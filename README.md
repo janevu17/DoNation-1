@@ -6,7 +6,7 @@ The following are links to presentation and prototype of the application:
 
 ```
 Presentation: https://prezi.com/view/RCAzMEsERiTvaR86G2pE/
-Prototype: https://pr.to/SMAX45/
+Prototype iOS: https://github.com/janevu17/DoNation
 ```
 
 Also, the prototype is available in the ``` DoNation-html.zip ```.
